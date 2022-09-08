@@ -1,7 +1,7 @@
 <template>
     <section class="mt-8 lg:mt-16">
       <div>
-        <h1 class="py-5 px-2 text-3xl font-semibold text-slate-800 font-sans text-center lg:text-6xl lg:px-[250px]">Rapidly build modern websites without ever leaving your HTML.</h1>
+        <h1 class="py-5 px-2 text-3xl font-semibold text-slate-800 font-sans text-center lg:text-6xl lg:px-[250px]">Rapidly build modern websites without ever leaving your HTML...</h1>
         <p class="px-4 py-1 text-center text-sans text-lg font-medium text-slate-600 lg:px-[350px] lg:text-2xl">
           A utility-first CSS framework packed with classes like 
           <span class="text-pink-700">flex</span>, 
